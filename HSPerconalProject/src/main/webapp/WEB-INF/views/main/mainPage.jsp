@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	아이디어 구상중
+	<div></div>
 </body>
 </html>
