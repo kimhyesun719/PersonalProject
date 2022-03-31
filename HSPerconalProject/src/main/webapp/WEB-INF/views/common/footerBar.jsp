@@ -59,7 +59,7 @@
         <hr style="border: solid 1px rgb(179, 178, 178);">
         <div class="footer1">
             <div id="footer_1-1">
-                <a href="">클래스 개설문의</a> 
+                <a href="">깃허브 주소</a> 
                 <c:choose>
                 	<c:when test="${loginUser.memNo == 1 }">
                 		 <a href="adminMain.ac">관리자 페이지</a> 
@@ -80,13 +80,8 @@
         <br>
         <div id="footer_2">
             <p id="oc1">
-                HS project ｜ 사업자등록번호 : 719-00-950719 ｜ 서울 강남 제1995-07호 ｜ 대표자 : 김혜선 ｜ 책임자 : 보미 ｜  개인정보관리책임자 : 강아지
-                <br><br>
-                강남지원 1관 : 서울특별시 강남구 테헤란로14길 6 혜선보미빌딩 2F, 3F, 4F, 5F, 6F<br>
-                강남지원 2관 : 서울특별시 강남구 테헤란로10길 9 혜선 빌딩 4F, 5F, 7F<br>
-                강남지원 3관 : 서울특별시 강남구 테헤란로 130 보미빌딩 5F, 6F<br>
-                종로지원 : 서울특별시 중구 남대문로 120 뻐꾸기빌딩 2F, 3F<br>
-                당산지원 : 서울특별시 영등포구 선유동2로 57 뻐꾹빌딩 (구관) 19F, 20F<br>
+                HS project ｜ 사업자등록번호 : 719-00-950719 ｜ 서울 동작구 사당동 ｜ 대표자 : 김혜선 ｜ 책임자 : 보미 ｜ 
+                <br>
             </p>
             <p id="oc2">
                 Copyright © 1998-2022 KH Information Educational Institute All Right Reserved            </p>
