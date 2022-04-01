@@ -15,7 +15,19 @@
             <div><img src="../../../resources/images/logo.jpg"></div>
         </div>
         <div id="searchBar">
-            <div></div>
+            <div>
+                <form id="search_form">
+                <select id="header_category">
+                    <option value="class" selected>about me</option>
+                    <option value="store">skills</option>
+                </select>
+                
+                <input type="hidden" name="cpage" value="1">
+                <input type="hidden" name="category" value="0">
+                <input type="hidden" name="array" value="like">
+                <input type="text" name="keyword" id="search_keyword">
+                <button type="button" onclick="smCk();">검색</button>
+            </form></div>
         </div>
     </div>
     <hr>
