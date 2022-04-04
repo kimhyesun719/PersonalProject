@@ -6,13 +6,19 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <style>
-    
+    #header{
+        display: flex;
+    }
+    #navi{
+        display: flex;
+        justify-content:space-around
+    }
 </style>
 </head>
 <body>
     <div id="header">
         <div id="logoImg">
-            <div><img src="../../../resources/images/logo.jpg"></div>
+            <div><img src="resources/images/logo.jpg"></div>
         </div>
         <div id="searchBar">
             <div>
